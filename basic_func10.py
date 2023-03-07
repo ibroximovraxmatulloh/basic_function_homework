@@ -7,5 +7,5 @@ def main(a):
     b = -1
 
     return a*b
-print(main(a = -4))    
+print(main(a = -4))     
 
