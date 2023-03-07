@@ -4,6 +4,7 @@
 
 # Increase the value of a to one and return.
 def main(a):
-    return a+1
+    a+=1
+    return a
 
-    print(main(a))
+print(main(a=2))
